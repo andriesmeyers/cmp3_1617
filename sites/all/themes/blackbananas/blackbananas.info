@@ -1,0 +1,6 @@
+name = Black Bananas
+descriptions = Custom theme for Drupal
+core = 7.x
+
+stylesheets[all][] = css/normalize.css
+stylesheets[all][] = css/main.css
